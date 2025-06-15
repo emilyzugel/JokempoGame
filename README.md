@@ -1,4 +1,5 @@
 # JokempoGame
+Jogue aqui: https://emilyzugel.github.io/JokempoGame/
 Jogo criado nas aulas de ADS da URI para aplicar conceitos básicos de algoritmo da disciplina Pensamento Computacional.
 
 ![image](https://github.com/user-attachments/assets/7d0f2de0-b24c-4aa3-8943-c4c36b4223b5)
